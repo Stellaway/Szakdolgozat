@@ -1,0 +1,19 @@
+Telepítési útmutató - Útvonaltervező algoritmus tesztelőkörnyezet
+
+Használt technológia és környezet:
+- Python: 3.12
+- Könyvtárak:
+  - numpy: Matematikai számításokhoz.
+  - pygame: 2D grafikus elemek kezelésére.
+- Jupyter Notebook: A kód futtatásához és vizualizációjához.
+
+Telepítési lépések:
+1. Telepítse a szükséges Python könyvtárakat:
+   pip install numpy
+   pip install pygame
+   pip install notebook
+
+2. Indítson el egy a Jupyter Notebook környezetet:
+   - Navigáljon a projekt mappájába.
+   - Nyissa meg a `test_environment.ipynb` fájlt.
+   - Futtassa a programot
